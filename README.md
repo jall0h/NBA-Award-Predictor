@@ -1,6 +1,6 @@
 # NBA Awards Predictor
 
-This project aims to predict the winners of the NBA Awards for MVP, DPOY, ROTY, and 6MOTY using only player statistics.
+This project aims to predict the winners of the NBA Awards for MVP, DPOY, ROTY, and 6MOTY using only player statistics, in addition to scraping the data from official NBA sources.
 
 # Install
 ```
